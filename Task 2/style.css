@@ -1,0 +1,169 @@
+.main{
+    align-items: center;
+    align-content: center;
+    color: black;
+    background-color: rgb(180, 238, 238);
+    padding: 1%;
+    border-radius: 20px;
+    margin: 3% 27% 3% 30%;
+    width:0% 10%;
+    height: 50%;
+}
+hr
+{
+    background-color: black;
+    border: 0 none;
+    color: black;
+    height: 05px;
+}
+.container{
+    position: -webkit-sticky;
+    position: sticky;
+    top:0%;
+}
+
+.h {
+    
+    padding: 1%;
+    margin-left: 7%;
+    border: none;
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+
+
+
+.h:hover,.a:hover,.p:hover,.c:hover,.co:hover{
+    color: lightskyblue;
+    transition: 200px 0px ease-in-out;
+    cursor: grab;
+    font-size: smaller;
+    padding: 1%;
+}
+.a{
+    
+    
+    padding: 1%;
+    margin-left: 6%;
+    border: none;
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+
+}
+
+.p{
+    
+    padding: 1%;
+    margin-left: 6%;
+    border: none;
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+
+
+}
+.c{
+    
+    padding: 1%;
+    margin-left: 5%;
+    border: none;
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+
+
+}
+.co{
+    
+    padding: 1%;
+    margin-left: 5%;
+    border: none;
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+    margin-right: 5%;
+
+}
+
+.photo1,.title,.photo2{
+    float:left;
+    margin: 100px 50px 100px 100px;
+    
+    padding:0.1%;
+    overflow: auto;
+    
+    /*border:2px solid black;*/
+    
+    
+    
+}
+.title{
+    font-size: larger;
+    margin-left: 75px;
+    margin-right:35px ;
+}
+.center{
+    
+    margin-left: 35%;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+}
+
+.p1{
+    font-size: large;
+    
+    margin-left: 95px;
+    margin-right: auto;
+    
+}
+.d1{
+    clear:both; 
+    background: black;
+
+}
+
+.icon{
+    margin-left: 35%;
+    clear: both;
+    width:50%;
+}
+.linked{
+    float:left;
+    padding: 2%;
+}
+.git{
+    float:left;
+    padding: 2%;
+}
+.twit{
+    float:left;
+    padding: 2%;
+}
+.mai{
+    float: left;
+    padding: 2%;
+}
+
+.exp{
+    clear:both;
+    margin-left: 20%;
+    font-size: xx-large;
+    font-weight: 1000;
+
+}
+
+.up{
+    float: right;
+    padding: 20px;
+    margin-top: 3px;
+    margin-right: 30px;
+}
+
+.footer{
+    padding:6px;
+    margin: 0px 35%;
+}
